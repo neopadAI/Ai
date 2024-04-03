@@ -7,5 +7,3 @@ def model(model_name):
         n.request(input('Enter your question: '))
     else:
       n.request(input('Enter your question: '))
-
-model('nnc-- nepsi 1.0 - f')
