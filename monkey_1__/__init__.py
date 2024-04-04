@@ -1,4 +1,3 @@
-possibility = 0
 initial = ''
 monkey = [
   'hello',
@@ -6,6 +5,7 @@ monkey = [
   'testo'
 ]
 def request(text):
+  possibility = 0
   for monkeyA in monkey:
     if monkeyA in text:
       print('monkey: ' + initial + monkeyA)
