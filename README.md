@@ -9,6 +9,6 @@ write w = 'infinite' if you want it to loop, but if you don't want it, don't wri
 
 write this code in your Python editor to launch this tool immediately, after importing our library
 
-`nepsi.w = 'infinite'`
+`monkey.w = 'infinite'`
 
-`nepsi.model('nnc-- MODEL_NAME MODEL_VERSION - f')`
+`monkey.model('nnc-- MODEL_NAME MODEL_VERSION - f')`
