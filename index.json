@@ -1,11 +1,11 @@
 {
-    "name": "neopadAI --server--",
+    "name": "neopadAI monkey",
     "models": [
         {
-            "name": "Nepsi",
+            "name": "Monkey",
             "version": "1.0",
             "type": "Ai",
-            "model": "nnc-- nepsi 1.0 -- n",
+            "model": "nnc-- monkey 1.0 -- n",
             "description": "free Ai model by neopadAI - Neopad",
             "actions": [
                 "create-files",
@@ -16,5 +16,5 @@
     ],
     "website": "neopad.it",
     "author": "Neopad - neopadAI",
-    "guthub": "https://www.github.com/neopadAI/Ai"
+    "guthub": "https://www.github.com/neopadAI/monkeyAI"
 }
