@@ -11,4 +11,4 @@ write this code in your Python editor to launch this tool immediately, after imp
 
 `nepsi.w = 'infinite'`
 
-`nepsi.model('nnc-- ' + model_name + ' ' + model_vs + ' - f')`
+`nepsi.model('nnc-- MODEL_NAME MODEL_VERSION - f')`
