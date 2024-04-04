@@ -1,4 +1,4 @@
-# nepsiAI
+# monkeyAI
 ##### by neopadAI - Neopad - neopad.it
 
 enter the version of the model you want to use, remember that you can also build this project for any information contact me at this email postmaster@neopad.it
