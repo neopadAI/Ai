@@ -1,0 +1,197 @@
+{
+  "tldrawFileFormatVersion": 1,
+  "schema": {
+    "schemaVersion": 1,
+    "storeVersion": 4,
+    "recordVersions": {
+      "asset": {
+        "version": 0,
+        "subTypeKey": "type",
+        "subTypeVersions": {
+          "image": 2,
+          "video": 2,
+          "bookmark": 0
+        }
+      },
+      "camera": {
+        "version": 0
+      },
+      "document": {
+        "version": 1
+      },
+      "instance": {
+        "version": 13
+      },
+      "instance_page_state": {
+        "version": 2
+      },
+      "page": {
+        "version": 0
+      },
+      "shape": {
+        "version": 2,
+        "subTypeKey": "type",
+        "subTypeVersions": {
+          "group": 0,
+          "bookmark": 1,
+          "embed": 1,
+          "image": 2,
+          "text": 1,
+          "video": 1,
+          "arrow": 1,
+          "draw": 1,
+          "frame": 0,
+          "geo": 6,
+          "line": 0,
+          "note": 4,
+          "highlight": 0
+        }
+      },
+      "instance_presence": {
+        "version": 2
+      },
+      "pointer": {
+        "version": 0
+      }
+    }
+  },
+  "records": [
+    {
+      "gridSize": 10,
+      "name": "",
+      "id": "document:document",
+      "typeName": "document"
+    },
+    {
+      "id": "pointer:pointer",
+      "typeName": "pointer",
+      "x": 843.2107133566112,
+      "y": 407.32722180567475,
+      "lastActivityTimestamp": 1712474379477
+    },
+    {
+      "id": "page:li8JoUpkwvaC-I1nDk6c3",
+      "name": "Page 1",
+      "index": "a1",
+      "typeName": "page"
+    },
+    {
+      "x": 186.41524201555188,
+      "y": 157.60026037910066,
+      "z": 0.3950949528690806,
+      "id": "camera:page:li8JoUpkwvaC-I1nDk6c3",
+      "typeName": "camera"
+    },
+    {
+      "editingId": null,
+      "croppingId": null,
+      "selectedIds": [],
+      "hoveredId": null,
+      "erasingIds": [],
+      "hintingIds": [],
+      "focusLayerId": null,
+      "id": "instance_page_state:page:li8JoUpkwvaC-I1nDk6c3",
+      "pageId": "page:li8JoUpkwvaC-I1nDk6c3",
+      "typeName": "instance_page_state"
+    },
+    {
+      "followingUserId": null,
+      "opacityForNextShape": 1,
+      "propsForNextShape": {
+        "color": "black",
+        "labelColor": "black",
+        "dash": "draw",
+        "fill": "none",
+        "size": "m",
+        "icon": "file",
+        "font": "draw",
+        "align": "middle",
+        "verticalAlign": "middle",
+        "geo": "rectangle",
+        "arrowheadStart": "none",
+        "arrowheadEnd": "arrow",
+        "spline": "line"
+      },
+      "brush": null,
+      "scribble": null,
+      "cursor": {
+        "type": "default",
+        "color": "black",
+        "rotation": 0
+      },
+      "isFocusMode": false,
+      "exportBackground": true,
+          "x": 0,
+          "y": 0
+        },
+        "end": {
+          "type": "point",
+          "x": 92.4000244140625,
+          "y": 166.8000030517578
+        },
+        "arrowheadStart": "none",
+        "arrowheadEnd": "arrow",
+        "text": "",
+        "font": "draw"
+      },
+      "id": "shape:-awImACqu3hrQfKortXTG",
+      "typeName": "shape"
+    },
+    {
+      "x": 643.4000244140625,
+      "y": 994,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "type": "arrow",
+      "parentId": "page:li8JoUpkwvaC-I1nDk6c3",
+      "index": "a9",
+      "props": {
+        "dash": "draw",
+        "size": "m",
+        "fill": "none",
+        "color": "black",
+        "labelColor": "black",
+        "bend": 0,
+        "start": {
+          "type": "point",
+          "x": 42.800048828125,
+          "y": 9.20001220703125
+        },
+        "end": {
+          "type": "point",
+          "x": -100,
+          "y": 200.79998779296875
+        },
+        "arrowheadStart": "none",
+        "arrowheadEnd": "arrow",
+        "text": "",
+        "font": "draw"
+      },
+      "id": "shape:jfzb6OeINPDHMKOjSesnz",
+      "typeName": "shape"
+    },
+    {
+      "x": 393,
+      "y": 1221.2000122070312,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "type": "note",
+      "parentId": "page:li8JoUpkwvaC-I1nDk6c3",
+      "index": "aA",
+      "props": {
+        "color": "black",
+        "size": "m",
+        "text": "read.py",
+        "font": "draw",
+        "align": "middle",
+        "verticalAlign": "middle",
+        "growY": 0,
+        "url": ""
+      },
+      "id": "shape:J-pNU75ueQXtA5EBWj5Sd",
+      "typeName": "shape"
+    }
+  ]
+}
