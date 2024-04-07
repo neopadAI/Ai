@@ -1,0 +1,17 @@
+<MODELS>
+
+  <model category="AI">
+    <title lang="en">monkeyAI</title>
+    <author>Neopad - neopadAI</author>
+    <description>new AI</description>
+    <year>2024</year>
+  </model>
+
+  <model category="AI">
+    <title lang="en">kaibyAI</title>
+    <author>Neopad - neopadAI</author>
+    <description>AI algoritm ordinary files and txt</description>
+    <year>2024</year>
+  </model>
+
+</MODELS>
