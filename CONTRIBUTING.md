@@ -1,1 +1,1 @@
-contribute to creating simmiaAI, an open-source project in Python
+contribute to creating monkeyAI, an open-source project in Python
